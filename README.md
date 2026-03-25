@@ -1,1 +1,1 @@
-Simple sscript for logging into PASiS with AutoHotkey v2.
+Simple script for logging into PASiS with AutoHotkey v2.
